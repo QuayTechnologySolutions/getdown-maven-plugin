@@ -101,6 +101,8 @@ Most of this configuration maps to entries in the getdown.txt file as described 
 | jarResource | None | Description of single **jarResource** in similar manner as for **webstart-maven-plugin** JNLP Jar resource definition |
 
 #### Resource
+| Key                    | Default | Descriptions |
+| --- | --- | --- |
 | alternativeEntryPoints | None | List of of **alternativeEntryPoint** elements. |
 | alternativeEntryPoint | None | Defines APE, mandatory sub-elements are **aepName**, **aepEntryClass**, optional elements are **appargs** and **jvmargs**.  |
 | aepName | None | Defines **app_id** as per **Getdown Dot Text** description |
