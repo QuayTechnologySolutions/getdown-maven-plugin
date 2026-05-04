@@ -19,15 +19,17 @@
 	</properties>
 
 	<description>Creates deployable, updatable java applications using Getdown (https://github.com/threerings/getdown/).</description>
+
 	<scm>
-		<connection>scm:git:https://github.com/gieza/getdown-maven-plugin.git</connection>
-		<developerConnection>scm:git:https://github.com/gieza/getdown-maven-plugin.git</developerConnection>
-		<url>http://github.com/gieza/getdown-maven-plugin.git</url>
+		<connection>scm:git:https://github.com/QuayTechnologySolutions/getdown-maven-plugin.git</connection>
+		<developerConnection>scm:git:https://github.com/QuayTechnologySolutions/getdown-maven-plugin.git</developerConnection>
+		<url>https://github.com/QuayTechnologySolutions/getdown-maven-plugin.git</url>
 		<tag>HEAD</tag>
 	</scm>
-	<url>https://github.com/gieza/getdown-maven-plugin</url>
+
+	<url>https://github.com/QuayTechnologySolutions/getdown-maven-plugin</url>
 	<issueManagement>
-		<url>https://github.com/gieza/getdown-maven-plugin/issues</url>
+		<url>https://github.com/QuayTechnologySolutions/getdown-maven-plugin/issues</url>
 	</issueManagement>
 
 	<licenses>
